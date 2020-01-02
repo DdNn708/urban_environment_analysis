@@ -2,6 +2,7 @@
 env/
 .DS_Store
 .idea/
+__pycache__/
 
 
 part_2_TMP.ipynb
