@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+env/
+.DS_Store
+.idea/
+
+
+part_2_TMP.ipynb
